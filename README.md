@@ -1,5 +1,5 @@
 # Magento Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Magento Essential Training](https://www.tertiarycourses.com.sg/magento-essential-training-course.html) course. 
 
