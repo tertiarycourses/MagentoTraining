@@ -1,11 +1,12 @@
-# Magento Essential Training
+# Full Magento Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Magento Essential Training](https://www.tertiarycourses.com.sg/magento-essential-training-course.html) course. 
+These are the exercise files used for [Full Magento Training](https://www.tertiarycourses.com.sg/magento-advanced-training.html) course. 
 
 The course outline can be found in 
+https://www.tertiarycourses.com.sg/magento-advanced-training.html
 
-https://www.tertiarycourses.com.sg/magento-essential-training-course.html
+https://www.tertiarycourses.com.my/magento-advanced-training.html
 
 <p><strong>Module 1: Overview of e-Commerce</strong></p>
 <ul>
